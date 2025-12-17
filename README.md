@@ -59,7 +59,7 @@ jobs:
 
 
 Now you can use Github Workflows.
-You need to copy the Gradle, Google and kts-file/s from [Screen Operator](https://github.com/Android-PowerUser/ScreenOperator). A fork have probably already these files.
+You need to copy the Gradle, Google and other file/s, except /app/ from [Screen Operator](https://github.com/Android-PowerUser/ScreenOperator). A fork have probably already these files.
 You can build only in your fork or repo, otherwise you can't run the workflow. 1. Click on the ⚙️ gear icon (on mobile)
 2. Click on **Actions**
 3. Select **Android Build** (or the corresponding workflow)
