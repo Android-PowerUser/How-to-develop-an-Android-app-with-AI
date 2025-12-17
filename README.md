@@ -1,13 +1,13 @@
 ### App Development with AI for free
 
 
-Go to [jules.google.com](jules.google.com) connect Jules to your GitHub account. Create a new repo or fork from another one. Let Jules create a file and folder structure for an Android app with Java Code. You can review the generated files in the `/app/` folder in the repo. You can create an Agents.md file in the root directory for programming rules that will read anytime
+Go to [jules.google.com](https://jules.google.com) connect Jules to your GitHub account. Create a new repo or fork from another one. Let Jules create a file and folder structure for an Android app with Java Code. You can review the generated files in the `/app/` folder in the repo. You can create an Agents.md file in the root directory for programming rules that will read anytime
 
 
 > ⚠️ **IMPORTANT:** Always use the planning feature in Jules (rocket icon)! AI instructions surprisingly often implement something different than intended. Good planning significantly improves LM results.
 
 
-If have already code in the repo, because it is a fork, give the task to Jules. Jules analyzes the code and tells you the relevant files. Because simpler AI models (like Gemini 2.5/3 Pro) have weaknesses with complex tasks, copy these files to [lmarena.ai](lmarena.ai). Select "Direct" and then "Claude Opus 4.5 Thinking". Copy the task from Jules and paste it there. Paste Claude's output unchanged back into Jules. Even Gemini 2.5 Pro automatically recognizes where the code belongs and replaced the old one.
+If have already code in the repo, because it is a fork, give the task to Jules. Jules analyzes the code and tells you the relevant files. Because simpler AI models (like Gemini 2.5/3 Pro) have weaknesses with complex tasks, copy these files to [lmarena.ai](https://lmarena.ai). Select "Direct" and then "Claude Opus 4.5 Thinking". Copy the task from Jules and paste it there. Paste Claude's output unchanged back into Jules. Even Gemini 2.5 Pro automatically recognizes where the code belongs and replaced the old one.
 
 
 ## Building the App
