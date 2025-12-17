@@ -1,5 +1,7 @@
 ### App Development with AI for free
 
+#### For Beginners
+
 You don't need a Computer. Go to [jules.google.com](https://jules.google.com) connect Jules to your GitHub account. Create a new repo or fork from another one. Let Jules create a file and folder structure for an Android app with Java Code. You can review the generated files in the `/app/` folder in the repo. You can create an Agents.md file in the root directory for programming rules that will read anytime
 
 
